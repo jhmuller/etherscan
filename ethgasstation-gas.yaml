@@ -1,0 +1,4 @@
+key: &key
+  2c743b538622a4cdd9c3a3729ae6d5a206f641a74fde364fddcb27e572f2
+
+endpoint: https://ethgasstation.info/api/ethgasAPI.json?api-key={key}

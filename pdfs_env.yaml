@@ -1,0 +1,19 @@
+name: pdfs
+dependencies:
+  - python=3.10
+  - jupyter
+  - IPython
+  - pandas
+  - numpy
+  - nbconvert
+  - jupyterlab
+  - pip
+  - pip:
+    - plotnine
+    - tqdm
+    - pyyaml
+    - psutil
+    - camelot-py[base]
+    - pdfminer.six
+    - tabula-py
+    - opencv-python

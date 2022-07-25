@@ -1,0 +1,19 @@
+name: ether
+dependencies:
+  - python=3.8
+  - jupyter
+  - IPython
+  - pandas
+  - numpy
+  - nbconvert
+  - jupyterlab
+  - pip
+  - pip:
+    - plotnine
+    - tqdm
+    - pyyaml
+    - microprediction
+    - scipy
+    - scikit-learn
+    - requests
+    - web3
